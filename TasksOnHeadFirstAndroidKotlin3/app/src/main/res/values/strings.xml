@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TasksOnHeadFirstAndroidKotlin3</string>
+    <string name="rs_str">Audi RS logo</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Your favorite cars:</string>
+    <string-array name="options">
+        <item>Cars</item>
+        <item>Interiors</item>
+        <item>Logos</item>
+    </string-array>
+</resources>
